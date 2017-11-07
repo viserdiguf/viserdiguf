@@ -1,0 +1,83 @@
+body {}
+
+a{
+    color: #939393;
+}
+
+a:hover{
+    color: lightgray;
+}
+
+#header {
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+}
+
+
+
+#omoss {
+    left: 450px;
+    top: 35px;
+    position: relative;
+    font-size: 17px;
+    font-variant: small-caps;
+    font-family: Arial, sans-serif;
+    color: darkslategray;
+  width: fit-content;
+}
+
+
+.vl {
+    border-left: 1px solid black;
+     position: absolute;
+    left: 525px;
+    top: 15px;
+}
+
+#kontakt{
+     left: 550px;
+    top: 35px;
+    position: absolute;
+    font-size: 17px;
+    font-variant: small-caps;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.vl2 {
+    border-left: 1px solid black;
+    position: absolute;
+    left: 632px;
+    top: 15px;
+}
+
+#center {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+
+#bild{
+    position: absolute;
+    top: 200px;
+    left: 350px;
+}
+     
+
+
+#footer {
+    background-color: white;
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    top: 710px;
+    left: 0px;
+}
